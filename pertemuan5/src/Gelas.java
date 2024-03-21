@@ -4,11 +4,9 @@ public class Gelas {
     {
         warna = w;
     }
-
     public void setWarna(String warna) {
         this.warna = warna;
     }
-
     public String getWarna() {
         return warna;
     }
