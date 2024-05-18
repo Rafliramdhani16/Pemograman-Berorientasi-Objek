@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/pertemuan12/Latihan2/Latihan2.iml" filepath="$PROJECT_DIR$/pertemuan12/Latihan2/Latihan2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pertemuan12/src/Latihan2/Latihan2.iml" filepath="$PROJECT_DIR$/pertemuan12/src/Latihan2/Latihan2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PBO.iml" filepath="$PROJECT_DIR$/.idea/PBO.iml" />
       <module fileurl="file://$PROJECT_DIR$/pertemuan1/pertemuan1.iml" filepath="$PROJECT_DIR$/pertemuan1/pertemuan1.iml" />
       <module fileurl="file://$PROJECT_DIR$/pertemuan10/pertemuan10.iml" filepath="$PROJECT_DIR$/pertemuan10/pertemuan10.iml" />
